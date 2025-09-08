@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reservation_id: 1
+  service_id: 1
+  quantity: 1
+  used_at: 2025-09-08 09:23:52
+  note: MyText
+
+two:
+  reservation_id: 1
+  service_id: 1
+  quantity: 1
+  used_at: 2025-09-08 09:23:52
+  note: MyText

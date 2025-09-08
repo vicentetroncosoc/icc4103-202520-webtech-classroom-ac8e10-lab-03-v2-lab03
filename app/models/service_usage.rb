@@ -1,0 +1,2 @@
+class ServiceUsage < ApplicationRecord
+end
